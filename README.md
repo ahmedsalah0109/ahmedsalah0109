@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ahmed Salah and I'm a ML Engineer</h2>
+<div align="center">   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ahmed%20Salah&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer&descAlignY=51&descAlign=62" width="100%"/> 
+</div>
+
+
 
 ###
 
