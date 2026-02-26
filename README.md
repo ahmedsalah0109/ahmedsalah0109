@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ahmed%20Salah&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer&descAlignY=51&descAlign=62" width="100%"/> 
 </div>
 
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=ML+Engineer;Software+Tester;PR+Member+%40ICPC+Community+HNU;Competitive+Programmer+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
 
 ###
 
